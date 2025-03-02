@@ -2,7 +2,7 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering 
+# Part 1: Introduction to Software Engineering 
 
 
 
