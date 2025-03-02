@@ -6,7 +6,7 @@ Software Engineering Day1 Assignment
 
 
 
-##Explain what software engineering is and discuss its importance in the technology industry.   
+## Explain what software engineering is and discuss its importance in the technology industry.   
 
 
 **What is Software Engineering?**
@@ -44,7 +44,7 @@ In summary, software engineering is crucial because it ensures that the tools an
 
 
 
-#Identify and describe at least three key milestones in the evolution of software engineering. 
+## Identify and describe at least three key milestones in the evolution of software engineering. 
 
 **Key Milestones in the Evolution of Software Engineering**
 
@@ -62,7 +62,7 @@ In 2001, the Agile Manifesto introduced a more flexible and collaborative way to
 
 
 
-#List and briefly explain the phases of the Software Development Life Cycle. 
+## List and briefly explain the phases of the Software Development Life Cycle. 
 **Phases of the Software Development Life Cycle (SDLC)**
 
 The Software Development Life Cycle (SDLC) is a step-by-step approach used to create and maintain software, which is essentially the programs and applications we use on our computers and devices. Here’s a breakdown of the main phases in this process:
@@ -98,7 +98,7 @@ Each of these phases is critical in making sure that software is developed effic
 
 
 
-#Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. 
+## Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate. 
 
 
 
@@ -112,7 +112,7 @@ Each of these phases is critical in making sure that software is developed effic
 
 
 
-#Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team. 
+## Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team. 
 **Understanding Roles and Responsibilities in a Software Engineering Team**
 
 1. **Software Developer**
@@ -166,7 +166,7 @@ This breakdown helps everyone understand the key roles in a software engineering
 
 
 
-#Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each. 
+## Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each. 
 
 **The Importance of Development Tools in Software Creation**
 
@@ -223,16 +223,16 @@ This breakdown helps everyone understand the key roles in a software engineering
 
 
 
-#What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+## What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+## Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+## Define prompt engineering and discuss its importance in interacting with AI models.
 
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+## Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
